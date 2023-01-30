@@ -1,0 +1,31 @@
+{
+  "name": "freecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxt/types": "^2.15.8",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@sweetalert2/theme-material-ui": "^5.0.8",
+    "bootstrap": "^5.2.2",
+    "cookie-universal-nuxt": "^2.2.2",
+    "core-js": "^3.15.1",
+    "element-ui": "^2.15.12",
+    "nuxt": "^2.15.7",
+    "nuxt-webfontloader": "^1.1.0",
+    "pdfmake": "^0.2.6",
+    "vue-paypal-checkout": "^3.2.0",
+    "vue-sweetalert2": "^5.0.2",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
